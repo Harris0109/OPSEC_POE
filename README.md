@@ -53,3 +53,6 @@ From the Dashboard, you can:
 ---
 
 Thank you for choosing **MoneyMate** – intelligent budgeting begins here!
+
+Link to our YouTube video
+https://youtu.be/RmU27DmHYLc?si=iyiUyOxE7NDbBo2g
